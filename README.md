@@ -1,2 +1,2 @@
 # Simple-Calculator
-https://timothyolanrewaju.github.io/Simple-Calculator/
+https://simple-calculatar.vercel.app/
